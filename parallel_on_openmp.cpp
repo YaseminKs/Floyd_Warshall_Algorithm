@@ -1,3 +1,5 @@
+// Loop parallelization on Multi-core CPU
+
 // OpenMP for parallelization across multiple CPU threads.
 
 #include <iostream>

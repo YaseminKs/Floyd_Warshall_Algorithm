@@ -1,4 +1,4 @@
-// 	Thread-based parallelism on GPU
+// Thread-based parallelism on GPU
 
 // Each thread computes a part of the shortest path matrix.
 

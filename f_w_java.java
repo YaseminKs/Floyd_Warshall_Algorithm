@@ -1,3 +1,5 @@
+//Uses a 2D array and loops to update distances.
+
 import java.util.*;
 
 class FloydWarshall{
